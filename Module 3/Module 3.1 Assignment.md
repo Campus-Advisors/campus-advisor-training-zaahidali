@@ -1,3 +1,4 @@
+Zahid Ali
 Apply for GitHub Education Benefits so you can use private repositories within your organization here:
 
 https://education.github.com/discount_requests/new
